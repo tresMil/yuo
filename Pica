@@ -1,0 +1,425 @@
+#EXTM3U
+#EXTINF:0 tvg-id="avi" group-title="unsorted",TOTAL TV
+https://www.youtube.com/watch?v=M1oNB8O5UNg
+#EXTINF:0 tvg-id="avi" group-title="unsorted",SUSCRIBETE A MI CANAL DE YOUTUBE
+https://www.youtube.com/watch?v=M1oNB8O5UNg
+#EXTINF:0 tvg-id="avi" group-title="unsorted",PAJINA DE
+https://www.facebook.com/TOTAL-TV-1146426212132430/https://www.youtube.com/watch?v=M1oNB8O5UNg
+#EXTINF:0 tvg-id="avi" group-title="unsorted",DONACION wichoinvernando2727@Outlook.com
+https://www.youtube.com/watch?v=M1oNB8O5UNg
+#EXTINF:0 tvg-id="ext" group-title="unsorted",MVS NOTICIAS
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",EFEKTO TV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8#IptvPlay
+#EXTINF:0 tvg-id="ForoTV.mx" group-title="unsorted",FORO TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",LAS ESTRELLAS
+http://sicoticoxw.com/LIVE/H01/CANAL102/PR0FILE03.m3u8?no=gasolinazo
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="unsorted",Azteca 7 HD
+http://sicoticoxw.com/LIVE/H01/CANAL7/PR0FILE03.m3u8?no=gasolinazo
+#EXTINF:0 tvg-id="Azteca13.mx" group-title="unsorted",Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",AZTECA 13 (-30 MINUTOS)
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:0 tvg-id="Azteca13.mx" group-title="unsorted",AZTECA NOTICIAS
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
+#EXTINF:0 tvg-id="Proyecto40.mx" group-title="unsorted",PROYECTO 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",CAPITAL 21 CDMX
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",UNA VOZ CON TODOS HD
+http://urtmpkal-f.akamaihd.net/i/0queot4rb_1@327205/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Canal del Congreso
+http://q.gs:80/14608897/qcanal-378?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",TVMas
+http://q.gs:80/14608897/qcanal-389?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Trendy Channel
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",SUN CHANEL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+#EXTINF:0 tvg-id="Atreseries.es" group-title="unsorted",Atreseries
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0 tvg-id="Antena3.mx" group-title="unsorted",Antena 3 Internacional
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="unsorted",MULTIMEDIOS MONTERREY
+http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Multimedios Mty
+http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dbf5dbbfc8f16bb63ce1/publish/media_400.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fmonterrey&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1484723224640
+#EXTINF:0 tvg-id="discov_rus" group-title="unsorted",Discovery
+http://q.gs:80/14608897/canal-6?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Discovery Channel opc 2
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8?
+#EXTINF:0 tvg-id="DeutscheWelle.cl" group-title="unsorted",DW LATINOAMERICA
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:0 tvg-id="avi" group-title="unsorted",ENTRETENIMIENTO
+https://www.youtube.com/watch?v=M1oNB8O5UNg
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Gravity Falls (24/7 HD)
+http://q.gs:80/14608897/power-by-juan-canal-420?stream.mp4
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Tateti
+http://q.gs:80/14608897/qcanal-362?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",peliculas 24/7
+http://q.gs:80/14608897/power-by-juan-canal-87?stream.m3u8
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="unsorted",Azteca 7
+http://live.tvplayerlatino.com/streaming/src1/991jv?58afba
+#EXTINF:0 tvg-id="Canal5.mx" group-title="unsorted",Canal 5
+http://live.tvplayerlatino.com/streaming/src1/74511?58afba
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Las Estrellas -2 Horas
+http://live.tvplayerlatino.com/streaming/src1/cest2?58afba
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Las Estrellas 2
+http://live.tvplayerlatino.com/streaming/src1/cans2?58afba
+#EXTINF:0 tvg-id="ext" group-title="unsorted",XEWT Tijuana
+http://live.tvplayerlatino.com/streaming/src1/xewt1?58afba
+#EXTINF:0 tvg-id="GalaTV.mx" group-title="unsorted",Gala TV
+http://live.tvplayerlatino.com/streaming/src1/K1kPK?58afba
+#EXTINF:0 tvg-id="cartoon" group-title="unsorted",Cartoon Network
+http://live.tvplayerlatino.com/streaming/src1/owHw3
+#EXTINF:0 tvg-id="CBeebies.uk" group-title="unsorted",CBeebies
+http://live.tvplayerlatino.com/streaming/src1/5hgci?58afba
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="unsorted",Nick HD
+http://live.tvplayerlatino.com/streaming/src1/3hujI?58afba
+#EXTINF:0 tvg-id="nick-jr" group-title="unsorted",Nick JR
+http://live.tvplayerlatino.com/streaming/src1/DFX8y?58afba
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="unsorted",Nick Toons
+http://live.tvplayerlatino.com/streaming/src1/mYLvZ?58afba
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="unsorted",Nickelodeon
+http://live.tvplayerlatino.com/streaming/src1/Q7iup?58afba
+#EXTINF:0 tvg-id="disney" group-title="unsorted",Disney Channel
+http://live.tvplayerlatino.com/streaming/src1/yr1Y7?58afba
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="unsorted",Disney Junior
+http://live.tvplayerlatino.com/streaming/src1/BOgKm?58afba
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="unsorted",Disney XD
+http://live.tvplayerlatino.com/streaming/src1/Ow853?58afba
+#EXTINF:0 tvg-id="boomerang" group-title="unsorted",Boomerang
+http://live.tvplayerlatino.com/streaming/src1/u3H8s?58afba
+#EXTINF:0 tvg-id="TIIN.mx" group-title="unsorted",Tiin
+http://live.tvplayerlatino.com/streaming/src1/gm6eP?58afba
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="unsorted",Tooncast
+http://live.tvplayerlatino.com/streaming/src1/BNgf7?58afba
+#EXTINF:0 tvg-id="set" group-title="unsorted",Sony HD
+http://live.tvplayerlatino.com/streaming/src1/wMbZG?58afba
+#EXTINF:0 tvg-id="TBS.mx" group-title="unsorted",TBS Very Funny
+http://live.tvplayerlatino.com/streaming/src1/DbqPb?58afba
+#EXTINF:0 tvg-id="ext" group-title="unsorted",TeleFÃƒÂ³rmula
+http://live.tvplayerlatino.com/streaming/src1/kO6op?58afba
+#EXTINF:0 tvg-id="AyE.mx" group-title="unsorted",A&E HD
+http://live.tvplayerlatino.com/streaming/src1/a9C5z?58afba
+#EXTINF:0 tvg-id="mgm-int" group-title="unsorted",AMC
+http://live.tvplayerlatino.com/streaming/src1/fRonE?58afba
+#EXTINF:0 tvg-id="AMC.uk" group-title="unsorted",AMC HD
+http://live.tvplayerlatino.com/streaming/src1/82qtB?58afba
+#EXTINF:0 tvg-id="animal_rus" group-title="unsorted",Animal Planet
+http://live.tvplayerlatino.com/streaming/src1/bEKOK?58afba
+#EXTINF:0 tvg-id="axn.pt" group-title="unsorted",AXN HD
+http://live.tvplayerlatino.com/streaming/src1/0Jip7?58afba
+#EXTINF:0 tvg-id="AzClic.mx" group-title="unsorted",Az Clic
+http://live.tvplayerlatino.com/streaming/src1/qPJFV?58afba
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Az CorazÃƒÂ³n
+http://live.tvplayerlatino.com/streaming/src1/tN4tu?58afba
+#EXTINF:0 tvg-id="AZMundo.cl" group-title="unsorted",Az Mundo
+http://live.tvplayerlatino.com/streaming/src1/EMu3h?58afba
+#EXTINF:0 tvg-id="bbc-entertainment" group-title="unsorted",BBC Entertainment
+http://live.tvplayerlatino.com/streaming/src1/FnUGG?58afba
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="unsorted",Cinemax
+http://live.tvplayerlatino.com/streaming/src1/k8MBl?58afba
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="unsorted",Comedy Central HD
+http://live.tvplayerlatino.com/streaming/src1/EKlNT?58afba
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="unsorted",Distrito Comedia
+http://live.tvplayerlatino.com/streaming/src1/VGGNc?58afba
+#EXTINF:0 tvg-id="E.uk" group-title="unsorted",E!
+http://live.tvplayerlatino.com/streaming/src1/DhZOs?58afba
+#EXTINF:0 tvg-id="ElGourmet.mx" group-title="unsorted",El Gourmet
+http://live.tvplayerlatino.com/streaming/src1/WrdYp?58afba
+#EXTINF:0 tvg-id="fox-crime" group-title="unsorted",Fox
+http://live.tvplayerlatino.com/streaming/src1/L0ISp?58afba
+#EXTINF:0 tvg-id="EstrellaTV.us" group-title="unsorted",Estrella TV
+http://live.tvplayerlatino.com/streaming/src1/ulgFW?58afba
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Trendy
+http://live.tvplayerlatino.com/streaming/src1/hz2QF?58afba
+#EXTINF:0 tvg-id="TruTV.uk" group-title="unsorted",TruTV
+http://live.tvplayerlatino.com/streaming/src1/5pBpi?58afba
+#EXTINF:0 tvg-id="tlc-russia" group-title="unsorted",TLC
+http://live.tvplayerlatino.com/streaming/src1/O9Age?58afba
+#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="unsorted",Tlnovelas
+http://live.tvplayerlatino.com/streaming/src1/3iDkr?58afba
+#EXTINF:0 tvg-id="WarnerChannelHD.ar" group-title="unsorted",Warner Channel HD
+http://live.tvplayerlatino.com/streaming/src1/SO0M3?58afba
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="unsorted",TNT Series
+http://live.tvplayerlatino.com/streaming/src1/9HmKY?58afba
+#EXTINF:0 tvg-id="fashion" group-title="unsorted",Fashion TV
+http://live.tvplayerlatino.com/streaming/src1/nHCx8v?58afba
+#EXTINF:0 tvg-id="Fox1HD.mx" group-title="unsorted",Fox 1 HD
+http://live.tvplayerlatino.com/streaming/src1/NCheB?58afba
+#EXTINF:0 tvg-id="GarageTV.es" group-title="unsorted",Garage TV
+http://live.tvplayerlatino.com/streaming/src1/24Ufd?58afba
+#EXTINF:0 tvg-id="Glitz.mx" group-title="unsorted",Glitz
+http://live.tvplayerlatino.com/streaming/src1/gOQYF?58afba
+#EXTINF:0 tvg-id="ext" group-title="unsorted",HMX
+http://live.tvplayerlatino.com/streaming/src1/bFMii?58afba
+#EXTINF:0 tvg-id="HolaTV.us" group-title="unsorted",Hola TV
+http://live.tvplayerlatino.com/streaming/src1/pyKOB?58afba
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="unsorted",Lifetime
+http://live.tvplayerlatino.com/streaming/src1/v4xin?58afba
+#EXTINF:0 tvg-id="ext" group-title="unsorted",MÃƒÂ¡s chic
+http://live.tvplayerlatino.com/streaming/src1/BPzH6?58afba
+#EXTINF:0 tvg-id="Unicable.mx" group-title="unsorted",Unicable
+http://live.tvplayerlatino.com/streaming/src1/O7Ohw?58afba
+#EXTINF:0 tvg-id="FX.uk" group-title="unsorted",FX
+http://live.tvplayerlatino.com/streaming/src1/PEhC4?58afba
+#EXTINF:0 tvg-id="Bandamax.mx" group-title="unsorted",Bandamax
+http://live.tvplayerlatino.com/streaming/src1/cxbdK?58afba
+#EXTINF:0 tvg-id="vh-1-classic" group-title="unsorted",VH1 Classic
+http://live.tvplayerlatino.com/streaming/src1/KW2YQ?58afba
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="unsorted",VH1 HD
+http://live.tvplayerlatino.com/streaming/src1/eriD9?58afba
+#EXTINF:0 tvg-id="mtv-rus" group-title="unsorted",MTV
+http://live.tvplayerlatino.com/streaming/src1/hzHHE?58afba
+#EXTINF:0 tvg-id="mtv-hits" group-title="unsorted",MTV Hits
+http://live.tvplayerlatino.com/streaming/src1/Q0g4R?58afba
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="unsorted",MTV Live HD
+http://live.tvplayerlatino.com/streaming/src1/aEyNb?58afba
+#EXTINF:0 tvg-id="Telehit.mx" group-title="unsorted",Telehit
+http://live.tvplayerlatino.com/streaming/src1/LKqfP?58afba
+#EXTINF:0 tvg-id="RitmosonLatino.mx" group-title="unsorted",Ritmoson Latino
+http://live.tvplayerlatino.com/streaming/src1/2xsUx?58afba
+#EXTINF:0 tvg-id="discov_rus" group-title="unsorted",Discovery Channel
+http://live.tvplayerlatino.com/streaming/src1/hdHdC?58afba
+#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="unsorted",Discovery Civilization
+http://live.tvplayerlatino.com/streaming/src1/VSngF?58afba
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="unsorted",Discovery H&H
+http://live.tvplayerlatino.com/streaming/src1/gEqGA?58afba
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="unsorted",Discovery Kids
+http://live.tvplayerlatino.com/streaming/src1/Q99yx?58afba
+#EXTINF:0 tvg-id="DiscoverySci.mx" group-title="unsorted",Discovery SCI
+http://live.tvplayerlatino.com/streaming/src1/LMgwM?58afba
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="unsorted",Discovery Theater HD
+http://live.tvplayerlatino.com/streaming/src1/BCSvX?58afba
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="unsorted",Discovery Turbo
+http://live.tvplayerlatino.com/streaming/src1/uNab0?58afba
+#EXTINF:0 tvg-id="discov_turbo-extra" group-title="unsorted",Discovery World
+http://live.tvplayerlatino.com/streaming/src1/N6San?58afba
+#EXTINF:0 tvg-id="history-rus" group-title="unsorted",History Channel
+http://live.tvplayerlatino.com/streaming/src1/wQqis?58afba
+#EXTINF:0 tvg-id="natgeo" group-title="unsorted",Nat Geo
+http://live.tvplayerlatino.com/streaming/src1/BiEi0?58afba
+#EXTINF:0 tvg-id="natgeowild" group-title="unsorted",Nat Geo Wild
+http://live.tvplayerlatino.com/streaming/src1/i80zc?58afba
+#EXTINF:0 tvg-id="id-extra" group-title="unsorted",Investigation Discovery
+http://live.tvplayerlatino.com/streaming/src1/QO6g7?58afba
+#EXTINF:0 tvg-id="ForoTVHD.mx" group-title="unsorted",Foro TV HD
+http://live.tvplayerlatino.com/streaming/src1/K2zB5?58afba
+#EXTINF:0 tvg-id="WOBI.ar" group-title="unsorted",WOBI
+http://live.tvplayerlatino.com/streaming/src1/pcvbD?58afba
+#EXTINF:0 tvg-id="ESPN.uk" group-title="unsorted",ESPN
+http://live.tvplayerlatino.com/streaming/src1/bnDLg?58afba
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="unsorted",ESPN 2
+http://live.tvplayerlatino.com/streaming/src1/pIHCG?58afba
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="unsorted",ESPN 3
+http://live.tvplayerlatino.com/streaming/src1/6Xgky?58afba
+#EXTINF:0 tvg-id="ESPN.uk" group-title="unsorted",ESPN HD
+http://live.tvplayerlatino.com/streaming/src1/AUYrC?58afba
+#EXTINF:0 tvg-id="ext" group-title="unsorted",F1 TV
+http://live.tvplayerlatino.com/streaming/src1/JSqZy?58afba
+#EXTINF:0 tvg-id="FoxSports.it" group-title="unsorted",Fox Sports
+http://live.tvplayerlatino.com/streaming/src1/ead8m?58afba
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="unsorted",Fox Sports 2
+http://live.tvplayerlatino.com/streaming/src1/zDHQZ?58afba
+#EXTINF:0 tvg-id="AyMSports.mx" group-title="unsorted",AyM Sports
+http://live.tvplayerlatino.com/streaming/src1/Wx9m1?58afba
+#EXTINF:0 tvg-id="ext" group-title="unsorted",PX TV
+http://live.tvplayerlatino.com/streaming/src1/SQxal?58afba
+#EXTINF:0 tvg-id="TVE.se" group-title="unsorted",TVE
+http://live.tvplayerlatino.com/streaming/src1/nGBpw?58afba
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="unsorted",Cinecanal
+http://live.tvplayerlatino.com/streaming/src1/l7882?58afba
+#EXTINF:0 tvg-id="CinecanalHD.mx" group-title="unsorted",Cinecanal+
+http://live.tvplayerlatino.com/streaming/src1/XwyF3?58afba
+#EXTINF:0 tvg-id="ext" group-title="unsorted",De PelÃƒÂ­cula
+http://live.tvplayerlatino.com/streaming/src1/syIoC?58afba
+#EXTINF:0 tvg-id="ISat.mx" group-title="unsorted",I.Sat
+http://live.tvplayerlatino.com/streaming/src1/r7Ohf?58afba
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Az Cinema
+http://live.tvplayerlatino.com/streaming/src1/LxGvm?58afba
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="unsorted",SyFy
+http://live.tvplayerlatino.com/streaming/src1/GU0FE?58afba
+#EXTINF:0 tvg-id="tnt" group-title="unsorted",TNT
+http://live.tvplayerlatino.com/streaming/src1/uny6i?58afba
+#EXTINF:0 tvg-id="tnt" group-title="unsorted",TNT HD
+http://live.tvplayerlatino.com/streaming/src1/5shHX?58afba
+#EXTINF:0 tvg-id="Space.br" group-title="unsorted",Space
+http://live.tvplayerlatino.com/streaming/src1/ISt6j?58afba
+#EXTINF:0 tvg-id="SpaceHD.mx" group-title="unsorted",Space HD
+http://live.tvplayerlatino.com/streaming/src1/qQIPI?58afba
+#EXTINF:0 tvg-id="StudioUniversal.it" group-title="unsorted",Studio Universal
+http://live.tvplayerlatino.com/streaming/src1/CZ6O4?58afba
+#EXTINF:0 tvg-id="TCM.uk" group-title="unsorted",TCM
+http://live.tvplayerlatino.com/streaming/src1/7x3AE?58afba
+#EXTINF:0 tvg-id="Universal.uk" group-title="unsorted",Universal
+http://live.tvplayerlatino.com/streaming/src1/V6Eqb?58afba
+#EXTINF:0 tvg-id="Universal.uk" group-title="unsorted",Universal HD
+http://live.tvplayerlatino.com/streaming/src1/nfdUc?58afba
+#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="unsorted",Golden Edge
+http://live.tvplayerlatino.com/streaming/src1/QfuWa?58afba
+#EXTINF:0 tvg-id="GoldenHD.mx" group-title="unsorted",Golden HD
+http://live.tvplayerlatino.com/streaming/src1/PLMti?58afba
+#EXTINF:0 tvg-id="TheFilmZoneHD.mx" group-title="unsorted",Film Zone HD
+http://live.tvplayerlatino.com/streaming/src1/8VRfG?58afba
+#EXTINF:0 tvg-id="FoxActionHD.mx" group-title="unsorted",Fox Action
+http://live.tvplayerlatino.com/streaming/src1/QBjs9?58afba
+#EXTINF:0 tvg-id="FoxCinema.mx" group-title="unsorted",Fox Cinema
+http://live.tvplayerlatino.com/streaming/src1/rvTcm?58afba
+#EXTINF:0 tvg-id="FoxClassics.mx" group-title="unsorted",Fox Classics
+http://live.tvplayerlatino.com/streaming/src1/ulhmA?58afba
+#EXTINF:0 tvg-id="fox-life" group-title="unsorted",Fox Life
+http://live.tvplayerlatino.com/streaming/src1/7eNpt?58afba
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="unsorted",Fox Movies
+http://live.tvplayerlatino.com/streaming/src1/pf5II?58afba
+#EXTINF:0 tvg-id="ext" group-title="unsorted",ARIRANG (ASIA)
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0 tvg-id="H!TMusic.ro" group-title="unsorted",HIT TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chuklist.m3u8
+#EXTINF:0 tvg-id="EskaTV.pl" group-title="unsorted",ESKA TV
+http://stream.smcloud.net/live/eskatv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",ESKA GO TV BOX MUSIC
+http://stream.smcloud.net/live/vox/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",ESKA GO TV PARTY
+http://stream.smcloud.net/live/eska_party/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Melody channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:0 tvg-id="RockTV.it" group-title="unsorted",ROCK TV
+http://212.96.163.139:8020/1-tv-pc/924.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",VIBEE
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",RADIO ONE
+http://q.gs:80/14608897/qcanal-146?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",SI TV
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Heart TV (UK)
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0 tvg-id="CapitalTV.uk" group-title="unsorted",Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Music Videos 1
+http://djing.com/tv/underground.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Music Videos 2
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Music Videos 3
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Music Videos 4
+http://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/smil:spirit_all.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Music Videos 5
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Music Videos 6
+http://wow01.105.net/live/virgin1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Music Videos 7
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Music Videos 8
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Music Videos 9
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Music Videos 10
+http://rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
+#EXTINF:0 tvg-id="esp" group-title="unsorted",EUROSPORT 1
+http://81.7.13.162/hls/ss4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Red Bull TV
+http://q.gs:80/14608897/qcanal-436?USER=power-by-juan&PASS=stream.m3u8
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="unsorted",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ClaroSports.mx" group-title="unsorted",ClaroSports
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/index.m3u8
+#EXTINF:0 tvg-id="DeporTV.ar" group-title="unsorted",DXTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:0 tvg-id="DeporTV.ar" group-title="unsorted",DEPORTV
+http://190.57.234.164/V0/4/1.m3u8
+#EXTINF:0 tvg-id="russia-today" group-title="unsorted",RT HD
+http://rt-esp-live.hls.adaptive.level3.net/rt/esp/index1600.m3u8
+#EXTINF:0 tvg-id="Euronews.ar" group-title="unsorted",Euronews EspaÃ±ol
+http://q.gs:80/14608897/power-by-juan-canal-94?stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",RT US
+http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",RT International
+http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index2500.m3u8
+#EXTINF:0 tvg-id="RussiaToday.uk" group-title="unsorted",RT UK
+http://rt-uk-live.hls.adaptive.level3.net/rt/uk/index2500.m3u8
+#EXTINF:0 tvg-id="rt-doc" group-title="unsorted",RT DOCUMENTARY
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index1600.m3u8
+#EXTINF:0 tvg-id="NASATV.us" group-title="unsorted",Nasa Tv
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
+#EXTINF:0 tvg-id="avi" group-title="unsorted",INTERNACIONALES
+https://www.youtube.com/watch?v=M1oNB8O5UNg
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Animal Planet USA
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Nicktoons USA
+http://208.86.19.13:8080/live/15.stream/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",TNT HD USA
+http://208.86.19.13:8080/live/16.stream/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",LONDON LIVE usa
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",BBC AMERICA USA
+http://208.86.19.13:8080/live/34.stream/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",H2 USA FULL HD (HISTORY 2)
+http://q.gs:80/14608897/power-by-juan-canal-43?stream.m3u8
+#EXTINF:0 tvg-id="TRTWorld.uk" group-title="unsorted",TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",C-Span
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="unsorted",C-Span  Book TV
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="unsorted",C-Span American History TV
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="WeatherNation.us" group-title="unsorted",WeatherNation
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish101/kLive/smil:1_oorxcge2_all.smil/32/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",The Weather Network
+http://brightcove03-f.akamaihd.net/nationalhd_1_2500@106499?
+#EXTINF:0 tvg-id="Bloomberg.nws" group-title="unsorted",Bloomberg TV UK
+http://btvuk-i.akamaihd.net/hls/live/203321/btvuk_ios/P1/M18K.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Bloomberg TV Asia
+http://btvasia-i.akamaihd.net/hls/live/203322/btvasia_ios/P1/M18K.m3u8
+#EXTINF:0 tvg-id="El13HD.ar" group-title="unsorted",EL TRECE
+http://190.57.234.164/V0/1/1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Antena 3 Esp
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="unsorted",La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:0 tvg-id="mega" group-title="unsorted",Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+#EXTINF:0 tvg-id="Neox.sp" group-title="unsorted",NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:0 tvg-id="podmoskovie" group-title="unsorted",360 TV
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Canal 10 Mar de Plata
+http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Orbe 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",QM
+http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Tec TV
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:0 tvg-id="Viajar.sp" group-title="unsorted",Viajar
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
+#EXTINF:0 tvg-id="Latina.pe" group-title="unsorted",Latina
+http://ooyalahd2-f.akamaihd.net/i/latinlima01_delivery@42383/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",TV Monde
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Nueva Vida
+http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
+#EXTINF:0 tvg-id="avi" group-title="unsorted",ADULTOS
+https://www.youtube.com/watch?v=M1oNB8O5UNg
+#EXTINF:0 tvg-id="avi" group-title="unsorted",YOU PORN
+http://iptvnation.com/porn/video.mp4
+#EXTINF:0 tvg-id="VenusTV.uk" group-title="unsorted",VENUS
+http://159.203.63.133:8081/rstm/Venus/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Playy 19+
+http://edge2.everyon.tv/etv2sb/phd10769/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Playboy Asia
+http://main1sb.everyon.tv:1935/etv1sb/pld10497/exabytetv.m3u8
+#EXTINF:0 tvg-id="PentHouse.ero" group-title="unsorted",Penthouse
+rtmp://edge1.everyon.tv:1935/etv1sb/phd10927
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Penthouse Asia
+http://main1sb.everyon.tv:1935/etv1sb/pld10927/exabytetv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",Ask
+http://edge2.everyon.tv/etv2sb/phd10771/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="unsorted",ButGO
+http://main2sb.everyon.tv:1935/etv2sb/pld10772/playlist.m3u8
+#EXTINF:0 tvg-id="playboy" group-title="unsorted",PlayboyTV
+http://latino-webtv.ml:8880/stalker/PlayboyTV/playlist.m3u
